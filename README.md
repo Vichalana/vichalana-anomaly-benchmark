@@ -5,6 +5,23 @@ This repository contains a time-series, multivariate dataset which can be used i
 Vichalana Anomaly Benchmark can be used for evaluating anomaly detection algorithms. It comprises with 25 features and total of 
 ~50,000 data points. This dataset is generated using a industry standard setup of API Gateway.
 
+Our paper can be found at:
+
+[Anomaly Detection in High-Performance API Gateways](https://ieeexplore.ieee.org/document/9188100)
+
+If you use this dataset, please cite:
+
+@INPROCEEDINGS{9188100,
+  author =    {Geethika, Deshani and Jayasinghe, Malith and Gunarathne, Yasas and Gamage, Thilina Ashen and Jayathilaka, Sudaraka and Ranathunga, Surangika and Perera, Srinath},
+  booktitle=.  {2019 International Conference on High Performance Computing & Simulation (HPCS)}, 
+  title=.      {Anomaly Detection in High-Performance API Gateways}, 
+  year=.       {2019},
+  volume=.     {},
+  number=.     {},
+  pages=.      {995-1001},
+  doi=.        {10.1109/HPCS48598.2019.9188100}}
+
+# Dataset Details
 Merged anomaly dataset can be found in `/combined_dataset`
 The individual parts of the normal dataset can be found in `/normal_datasets`
 The anomalous dataset can be found in `/anomalous_datasets`
