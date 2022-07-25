@@ -14,13 +14,13 @@ If you use this dataset, please cite:
 ```
 @INPROCEEDINGS{9188100,
   author =    {Geethika, Deshani and Jayasinghe, Malith and Gunarathne, Yasas and Gamage, Thilina Ashen and Jayathilaka, Sudaraka and Ranathunga, Surangika and Perera, Srinath},
-  booktitle=.  {2019 International Conference on High Performance Computing & Simulation (HPCS)}, 
-  title=.      {Anomaly Detection in High-Performance API Gateways}, 
-  year=.       {2019},
-  volume=.     {},
-  number=.     {},
-  pages=.      {995-1001},
-  doi=.        {10.1109/HPCS48598.2019.9188100}}
+  booktitle=  {2019 International Conference on High Performance Computing & Simulation (HPCS)}, 
+  title=      {Anomaly Detection in High-Performance API Gateways}, 
+  year=       {2019},
+  volume=     {},
+  number=     {},
+  pages=      {995-1001},
+  doi=        {10.1109/HPCS48598.2019.9188100}}
 ```  
  
 
