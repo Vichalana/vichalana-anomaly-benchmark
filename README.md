@@ -11,6 +11,7 @@ Our paper can be found at:
 
 If you use this dataset, please cite:
 
+```
 @INPROCEEDINGS{9188100,
   author =    {Geethika, Deshani and Jayasinghe, Malith and Gunarathne, Yasas and Gamage, Thilina Ashen and Jayathilaka, Sudaraka and Ranathunga, Surangika and Perera, Srinath},
   booktitle=.  {2019 International Conference on High Performance Computing & Simulation (HPCS)}, 
@@ -20,8 +21,10 @@ If you use this dataset, please cite:
   number=.     {},
   pages=.      {995-1001},
   doi=.        {10.1109/HPCS48598.2019.9188100}}
+```  
+ 
 
-# Dataset Details
+## Dataset Details
 Merged anomaly dataset can be found in `/combined_dataset`
 The individual parts of the normal dataset can be found in `/normal_datasets`
 The anomalous dataset can be found in `/anomalous_datasets`
